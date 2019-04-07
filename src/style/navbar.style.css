@@ -1,0 +1,18 @@
+
+.brand, .brand:hover {
+    text-decoration: none;
+    color: black;
+}
+
+.login-btn, .login-btn:hover {
+    text-decoration: none;
+    color: white;
+}
+
+.register-btn, .register-btn:hover  {
+    text-decoration: none;
+}
+
+.register-btn:hover {
+    color: white;
+}

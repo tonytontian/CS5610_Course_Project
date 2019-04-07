@@ -1,0 +1,22 @@
+.padded-body {
+    padding-top: 80px
+}
+
+.horizontal-parent {
+    display: inline;
+    float: left;
+}
+
+.horizontal-child{
+    float:left;
+    display: inline;
+
+}
+.nav-item{
+    margin: 10px;
+}
+
+.topContainer{
+    display: flex;
+    flex-direction: row;
+}

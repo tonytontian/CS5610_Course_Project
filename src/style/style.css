@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css?family=Righteous|Share+Tech');
+
+.login-btn {
+    width: 200px;
+}
+
+.logo-text {
+    font-family: 'Share Tech', sans-serif;
+    font-size: 65px;
+    color: #5899f6;
+}
+a {
+    font-family: 'Trebuchet MS', sans-serif;
+}
+label {
+    font-family: 'Trebuchet MS', sans-serif;
+}
+button {
+    font-family: 'Trebuchet MS', sans-serif;
+}
+h1 {
+    font-family: 'Trebuchet MS', sans-serif;
+}
+h2 {
+    font-family: 'Trebuchet MS', sans-serif;
+}
+h4 {
+    font-family: 'Trebuchet MS', sans-serif;
+}
+p {
+    font-family: 'Trebuchet MS', sans-serif;
+}
+input {
+    font-family: 'Trebuchet MS', sans-serif;
+}
+input::placeholder {
+    font-family: 'Trebuchet MS', sans-serif;
+}
+textarea {
+    font-family: 'Trebuchet MS', sans-serif;
+}
+textarea::placeholder {
+    font-family: 'Trebuchet MS', sans-serif;
+}
+
+.alertText {
+    font-family: 'Trebuchet MS', sans-serif;
+    color: red;
+}
+
+p {font-family: 'Trebuchet MS', sans-serif;
+
+}
+
+._underline {
+    text-decoration: underline;
+}
+
+.fixed-textarea {
+    resize: none;
+}
+
+.profile-image {
+    width: 150px;
+    height: 150px;
+}
+
+.update-card {
+    border-radius: 0;
+}
+
+.search-btn {
+    color: white;
+    text-decoration: none;
+}

@@ -1,0 +1,14 @@
+.movie-card-img {
+    width: 100%;
+    height: 335px;
+    object-fit: cover;
+}
+
+
+.movie-card{
+    border-color:transparent;
+}
+
+.movie-grid{
+    padding-top: 75px;
+}
